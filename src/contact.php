@@ -27,6 +27,5 @@
         return $this->email;
     }
 
-
   }
 ?>
